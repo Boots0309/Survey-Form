@@ -1,13 +1,13 @@
 # Survey-Form
 this Survey-Form needs to pass the following test:
 
-User Story #1: I can see a title with id="title" in H1 sized text.
+User Story #1: I can see a title with id="title" in H1 sized text.<!--done-->
 
-User Story #2: I can see a short explanation with id="description" in P sized text.
+User Story #2: I can see a short explanation with id="description" in P sized text.<!--done-->
 
-User Story #3: I can see a form with id="survey-form".
+User Story #3: I can see a form with id="survey-form".<!-- done -->
 
-User Story #4: Inside the form element, I am required to enter my name in a field with id="name".
+User Story #4: Inside the form element, I am required to enter my name in a field with id="name".<!--done-->
 
 User Story #5: Inside the form element, I am required to enter an email in a field with id="email".
 

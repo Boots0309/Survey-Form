@@ -11,7 +11,7 @@ User Story #4: Inside the form element, I am required to enter my name in a fiel
 
 User Story #5: Inside the form element, I am required to enter an email in a field with id="email".<!--done-->
 
-User Story #6: If I enter an email that is not formatted correctly, I will see an HTML5 validation error.
+User Story #6: If I enter an email that is not formatted correctly, I will see an HTML5 validation error.<!--done-->
 
 User Story #7: Inside the form, I can enter a number in a field with id="number".<!--done-->
 

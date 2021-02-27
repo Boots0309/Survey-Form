@@ -16,7 +16,7 @@
     <main>
         <form action="/action_page.php" id='survey-form'>
             <label for="name" id="name-label">Name</label><br>
-            <input type="text" name="name" id="name" placeholder="Enter your Name" required><br>
+            <input type="text" name="name" id="name" placeholder="Enter your Name" autofocus required><br>
             <label for="email" id="email-label">Em@il</label><br>
             <input type="email" name="email" id="email" placeholder="Enter your e-m@il" required><br>
             <label for="number" id=number-label>Age(optional)</label><br>
@@ -30,6 +30,7 @@
                 <option value="prefer not to say">Prefer not to say</option>
                 <option value="others">Others</option>
             </select><br>
+
             <input type="submit" name="submit" id="submit">
         </form>
     </main>
